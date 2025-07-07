@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="banner" width="100%" height="150px" style="object-fit: cover;">
-</p>
-
-
-
 
 Comenzando la transición del mundo académico al privado, soy Lic. en Ciencias Biológicas, con formación en el área de Neurociencias y Bioestadística. Cuento con una sólida formación académica en análisis cuantitativo, estadística aplicada e investigación epidemiológica dentro del campo de la salud pública. Me apasiona comprender y estudiar a la sociedad y sus dinámicas a partir del análisis basado en datos de los determinantes socioeconómicos, culturales y comportamentales. 
 
