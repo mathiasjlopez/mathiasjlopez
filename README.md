@@ -1,15 +1,9 @@
 
-Hola! Bienvenido/a,
+Bienvenido/a!
 
-Soy Mathias Joel López, Lic. en Ciencias Biológicas con formación en el área de Neurociencias y Bioestadística. Cuento con una sólida formación académica en análisis cuantitativo, estadística aplicada e investigación epidemiológica dentro del campo de la salud pública. Actualmente en transición del ámbito académico al sector privado.
+Soy Mathias Joel López, Lic. en Ciencias Biológicas con formación en el área de Neurociencias y Bioestadística. Tengo una formación académica que abarca los campos del análisis cuantitativo, la estadística aplicada y la investigación epidemiológica social. 
 
-Me apasiona comprender y estudiar a la sociedad y sus dinámicas a partir del análisis basado en datos de los determinantes socioeconómicos, culturales y comportamentales. 
-
-Actualmente mis intereses están puestos en:
-- Estadística aplicada y modelado multivariado (modelos explicativos y predictivos)
-- Visualización clara y efectiva de resultados
-- Ciencia de datos reproducible con R / RMarkdown y Python
-- Abordaje de problemáticas desde una mirada crítica, basada en evidencia
+Me apasiona comprender las dinámicas de la sociedad desde un enfoque cuantitativo en los determinantes socioeconómicos, culturales y comportamentales. 
 
 ## Habilidades
 ### 🛠️ Herramientas
